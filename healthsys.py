@@ -72,7 +72,7 @@ def retrieve(k):
                 for i in co:
                     print(i, end="")
     else:
-        print("Please enter valid input (harry,rohan,hammad)")
+        print("Please enter valid input (rahul,rohan,rohit")
 print("Health Management System: ")
 a=int(input("Press 1 for log the value and 2 for retrieve:"))
 
